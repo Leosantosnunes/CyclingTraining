@@ -1,0 +1,18 @@
+{
+  "name": "cadence-personal-coach",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "test": "node --test",
+    "check": "node --check public/app.js && node --check public/engine.js && node --check public/sensors.js && node --check public/storage.js && node --check public/integrations.js && node --check lib/strava.mjs && node --check server.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "node.js": "^0.0.1-security"
+  }
+}
