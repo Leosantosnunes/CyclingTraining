@@ -1,0 +1,322 @@
+{
+  "oats": {
+    "id": 173904,
+    "name": "Cereals, oats, regular and quick, not fortified, dry",
+    "per100g": {
+      "protein": 13.15,
+      "fat": 6.52,
+      "carbs": 67.7,
+      "kcal": 379,
+      "calciumMg": 52,
+      "ironMg": 4.25,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Rolled oats (dry)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "rice": {
+    "id": 168878,
+    "name": "Rice, white, long-grain, regular, enriched, cooked",
+    "per100g": {
+      "protein": 2.69,
+      "fat": 0.28,
+      "carbs": 28.17,
+      "kcal": 130,
+      "calciumMg": 10,
+      "ironMg": 1.2,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "White rice (cooked)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "egg": {
+    "id": 173424,
+    "name": "Egg, whole, cooked, hard-boiled",
+    "per100g": {
+      "protein": 12.58,
+      "fat": 10.61,
+      "carbs": 1.12,
+      "kcal": 155,
+      "calciumMg": 50,
+      "ironMg": 1.19,
+      "vitaminDMcg": 2.2,
+      "b12Mcg": 1.11
+    },
+    "label": "Hard-boiled egg (edible portion)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "tofu": {
+    "id": 172475,
+    "name": "Tofu, raw, firm, prepared with calcium sulfate",
+    "per100g": {
+      "protein": 17.27,
+      "fat": 8.72,
+      "carbs": 2.78,
+      "kcal": 144,
+      "calciumMg": 683,
+      "ironMg": 2.66,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Calcium-set firm tofu",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "lentils": {
+    "id": 172421,
+    "name": "Lentils, mature seeds, cooked, boiled, without salt",
+    "per100g": {
+      "protein": 9.02,
+      "fat": 0.38,
+      "carbs": 20.13,
+      "kcal": 116,
+      "calciumMg": 19,
+      "ironMg": 3.33,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Lentils (cooked)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "bread": {
+    "id": 172688,
+    "name": "Bread, whole-wheat, commercially prepared",
+    "per100g": {
+      "protein": 12.45,
+      "fat": 3.5,
+      "carbs": 42.71,
+      "kcal": 252,
+      "calciumMg": 161,
+      "ironMg": 2.47,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Whole-wheat bread",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "banana": {
+    "id": 173944,
+    "name": "Bananas, raw",
+    "per100g": {
+      "protein": 1.09,
+      "fat": 0.33,
+      "carbs": 22.84,
+      "kcal": 89,
+      "calciumMg": 5,
+      "ironMg": 0.26,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Banana (peeled)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "orange": {
+    "id": 169097,
+    "name": "Oranges, raw, all commercial varieties",
+    "per100g": {
+      "protein": 0.94,
+      "fat": 0.12,
+      "carbs": 11.75,
+      "kcal": 47,
+      "calciumMg": 40,
+      "ironMg": 0.1,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Orange (peeled)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "peanutButter": {
+    "id": 172470,
+    "name": "Peanut butter, smooth style, without salt",
+    "per100g": {
+      "protein": 22.21,
+      "fat": 51.36,
+      "carbs": 22.31,
+      "kcal": 598,
+      "calciumMg": 49,
+      "ironMg": 1.74,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Smooth unsalted peanut butter",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "oil": {
+    "id": 171413,
+    "name": "Oil, olive, salad or cooking",
+    "per100g": {
+      "protein": 0,
+      "fat": 100,
+      "carbs": 0,
+      "kcal": 884,
+      "calciumMg": 1,
+      "ironMg": 0.56,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Olive oil",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "broccoli": {
+    "id": 169967,
+    "name": "Broccoli, cooked, boiled, drained, without salt",
+    "per100g": {
+      "protein": 2.38,
+      "fat": 0.41,
+      "carbs": 7.18,
+      "kcal": 35,
+      "calciumMg": 40,
+      "ironMg": 0.67,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Broccoli (cooked)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "tomato": {
+    "id": 170457,
+    "name": "Tomatoes, red, ripe, raw, year round average",
+    "per100g": {
+      "protein": 0.88,
+      "fat": 0.2,
+      "carbs": 3.89,
+      "kcal": 18,
+      "calciumMg": 10,
+      "ironMg": 0.27,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Tomato",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "potato": {
+    "id": 170438,
+    "name": "Potatoes, boiled, cooked in skin, flesh, without salt",
+    "per100g": {
+      "protein": 1.87,
+      "fat": 0.1,
+      "carbs": 20.13,
+      "kcal": 87,
+      "calciumMg": 5,
+      "ironMg": 0.31,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Potatoes (cooked)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "jam": {
+    "id": 169641,
+    "name": "Jams and preserves",
+    "per100g": {
+      "protein": 0.37,
+      "fat": 0.07,
+      "carbs": 68.86,
+      "kcal": 278,
+      "calciumMg": 20,
+      "ironMg": 0.49,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Jam / preserves",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "sugar": {
+    "id": 169655,
+    "name": "Sugars, granulated",
+    "per100g": {
+      "protein": 0,
+      "fat": 0,
+      "carbs": 99.98,
+      "kcal": 387,
+      "calciumMg": 1,
+      "ironMg": 0.05,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Granulated sugar",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "pasta": {
+    "id": 169737,
+    "name": "Pasta, cooked, enriched, without added salt",
+    "per100g": {
+      "protein": 5.8,
+      "fat": 0.93,
+      "carbs": 30.86,
+      "kcal": 158,
+      "calciumMg": 7,
+      "ironMg": 1.28,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    },
+    "label": "Pasta (cooked)",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "milk": {
+    "id": 171267,
+    "name": "Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",
+    "per100g": {
+      "protein": 3.3,
+      "fat": 1.98,
+      "carbs": 4.8,
+      "kcal": 50,
+      "calciumMg": 120,
+      "ironMg": 0.02,
+      "vitaminDMcg": 1.2,
+      "b12Mcg": 0.53
+    },
+    "label": "2% milk, vitamin-D fortified",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "yogurt": {
+    "id": 170894,
+    "name": "Yogurt, Greek, plain, nonfat (Includes foods for USDA's Food Distribution Program)",
+    "per100g": {
+      "protein": 10.19,
+      "fat": 0.39,
+      "carbs": 3.6,
+      "kcal": 59,
+      "calciumMg": 110,
+      "ironMg": 0.07,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0.75
+    },
+    "label": "Plain nonfat Greek yogurt",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08"
+  },
+  "flax": {
+    "id": 169414,
+    "name": "Seeds, flaxseed",
+    "label": "Ground flaxseed",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08",
+    "per100g": {
+      "protein": 18.29,
+      "fat": 42.16,
+      "carbs": 28.88,
+      "kcal": 534,
+      "calciumMg": 255,
+      "ironMg": 5.73,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    }
+  },
+  "walnuts": {
+    "id": 170187,
+    "name": "Nuts, walnuts, english",
+    "label": "Walnuts, shelled",
+    "source": "USDA SR Legacy, April 2018; retrieved 2026-11-08",
+    "per100g": {
+      "protein": 15.23,
+      "fat": 65.21,
+      "carbs": 13.71,
+      "kcal": 654,
+      "calciumMg": 98,
+      "ironMg": 2.91,
+      "vitaminDMcg": 0,
+      "b12Mcg": 0
+    }
+  }
+}
